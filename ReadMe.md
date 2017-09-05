@@ -30,7 +30,7 @@ The following **required** functionality is completed:
   * [X]  Required: new.php
   * [X]  Required: edit.php
 
-7\. [X]  Required: Add Data Validations
+7\.   Required: Add Data Validations
   * [X]  Required: Validate that no values are left blank.
   * [X]  Required: Validate that all string values are less than 255 characters.
   * [X]  Required: Validate that usernames contain only the whitelisted characters.
@@ -38,15 +38,15 @@ The following **required** functionality is completed:
   * [X]  Required: Validate that email addresses contain only whitelisted characters.
   * [X]  Required: Add *at least 5* other validations of your choosing.
 
-8\. [X]  Required: Sanitization
+8\.   Required: Sanitization
   * [X]  Required: All input and dynamic output should be sanitized.
   * [X]  Required: Sanitize dynamic data for URLs
   * [X]  Required: Sanitize dynamic data for HTML
   * [X]  Required: Sanitize dynamic data for SQL
 
-9\. [X]  Required: Penetration Testing
+9\.   Required: Penetration Testing
   * [X]  Required: Verify form inputs are not vulnerable to SQLI attacks.
-  * [X}  Required: Verify query strings are not vulnerable to SQLI attacks.
+  * [X]  Required: Verify query strings are not vulnerable to SQLI attacks.
   * [X]  Required: Verify form inputs are not vulnerable to XSS attacks.
   * [X]  Required: Verify query strings are not vulnerable to XSS attacks.
   * [X]  Required: Listed other bugs or security vulnerabilities
@@ -69,7 +69,7 @@ The following advanced user stories are optional:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/a/PSX7e' width='' alt='Video Walkthrough' />
+<img src='https://imgur.com/kv8padD' width='' alt='Video Walkthrough' />
 
 GIF created with [SnagIt](https://www.techsmith.com/screen-capture.html).
 
