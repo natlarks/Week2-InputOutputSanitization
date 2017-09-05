@@ -69,7 +69,7 @@ The following advanced user stories are optional:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://imgur.com/kv8padD' width='' alt='Video Walkthrough' />
+<a href='https://imgur.com/kv8padD'>GIF</a>
 
 GIF created with [SnagIt](https://www.techsmith.com/screen-capture.html).
 
